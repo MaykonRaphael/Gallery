@@ -40,8 +40,8 @@ In the project directory, you can run:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/MaykonRaphael/To-Do.git
-$ cd To-Do
+$ git clone https://github.com/MaykonRaphael/Gallery.git
+$ cd Gallery
 ```
 
 ## `yarn add` or `npm install`
