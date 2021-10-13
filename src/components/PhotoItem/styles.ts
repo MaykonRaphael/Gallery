@@ -16,7 +16,8 @@ export const Container = styled.div`
     }
 
     button {
-        background: #E51C44;
+        display: block;
+        background-color: #E51C44;
         font-size: 15px;
         border: 0;
         text-align: center;
@@ -24,5 +25,10 @@ export const Container = styled.div`
         margin-top: 10px;
         color: #DDE3F0;
         border-radius: 7px;
+        cursor: pointer;
+
+        &:hover {
+            opacity: .9;
+        }
     }
 `;
